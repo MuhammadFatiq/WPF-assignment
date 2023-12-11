@@ -1,0 +1,20 @@
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\WPF assignment.csproj.AssemblyReference.cache
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\WPF assignment_MarkupCompile.cache
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\WPF assignment.g.resources
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\WPF assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\WPF assignment.AssemblyInfoInputs.cache
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\WPF assignment.AssemblyInfo.cs
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\WPF assignment.csproj.CoreCompileInputs.cache
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\bin\Debug\net6.0-windows\WPF assignment.exe
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\bin\Debug\net6.0-windows\WPF assignment.deps.json
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\bin\Debug\net6.0-windows\WPF assignment.runtimeconfig.json
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\bin\Debug\net6.0-windows\WPF assignment.dll
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\bin\Debug\net6.0-windows\WPF assignment.pdb
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\WPF assignment.dll
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\refint\WPF assignment.dll
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\WPF assignment.pdb
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\WPF assignment.genruntimeconfig.cache
+C:\Users\213009\source\repos\WPF assignment\WPF assignment\obj\Debug\net6.0-windows\ref\WPF assignment.dll
